@@ -64,7 +64,7 @@ From all three analyses, it can be said that the Occupancy Rate peaked during th
 | Spring                        | 2024-03-01                  | 125.47                         | 97.77                      |
 | Summer                        | 2024-07-01                  | 123.1                          | 89.16                      |
 
-From the results, it is evident that the hotel's ADR and RevPAR fluctuated throughout the months, particularly in January, February, March, and July. While my previous analysis showed that the highest occupancy rate occurred during the spring season, the data above indicates that the highest average ADR was recorded in the winter season. This suggests that a higher occupancy rate does not necessarily lead to a higher ADR.
+From the results, it is evident that the hotel's ADR and RevPAR fluctuated throughout the months, particularly in January, February, March, and July. While my previous analysis showed that the highest occupancy rate occurred during the spring season, the data above indicate that the highest average ADR was recorded in the winter season. This suggests that a higher occupancy rate does not necessarily lead to a higher ADR.
 
 Based on this analysis, my recommendation for the hotel is to focus its pricing strategy on high-demand months to maximize yield, and to consider offering value-added packages during off-peak periods to maintain ADR.
 
