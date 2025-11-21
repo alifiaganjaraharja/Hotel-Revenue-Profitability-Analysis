@@ -28,7 +28,7 @@ For this analysis, I used SQL (specifically BigQuery) to practice writing querie
 | Winter                       |  77.77                      | 77.77                          | 78.0                       |
 | Summer                       |  76.7                       | 76.7                           | 77.0                       |
 
-Based on the data above, spring recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All. 
+Based on the data above, spring recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in terms of managed occupancy and overall occupancy. 
 
 - Occupancy rate based on Weekday:
 
@@ -53,7 +53,7 @@ Based on the data above, Saturday recorded the highest occupancy for this hotel,
 
 And based on the data above, Holiday recorded the highest occupancy for this hotel, not only in terms of occupancy rate but also in occupancy managed and Occupancy All. 
 
-From all three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturdays and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursdays and not on holidays. So, my actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
+From all three analyses, it can be said that the Occupancy Rate peaked during the Spring, especially on Saturdays and holidays. At the same time, the lowest Occupancy occurred during the Summer, especially on Thursdays and not on holidays. My actionable recommendation for this hotel is to launch targeted promotions during low-occupancy periods to boost room bookings. 
 
 2. **ADR & RevPAR Trends**: For the ADR & RevPAR trends analysis, the results are as follows.
 
@@ -101,7 +101,7 @@ I recommend optimizing operational efficiency and reducing expenses during low-t
 | 1                             | 1680000                     | 1850000                        | 91.0                              |
 | 3                             | 1035000                     | 1150000                        | 90.0                              |
 | 2                             | 1558000                     | 1735000                        | 90.0                              |
-| 7                             | 1554000                     | 1800000                        | 86.0.                             |
+| 7                             | 1554000                     | 1800000                        | 86.0                              |
 
 Based on the results above, January recorded the highest marketing spend at 1,850,000 and also achieved the highest marketing ROI at 90.91%. This suggests that January's marketing campaigns were the most effective, generating more revenue per unit of marketing spend. Conversely, July had the lowest ROI at 86.33%, indicating lower efficiency in converting marketing spend into revenue.
 
@@ -201,7 +201,7 @@ Then my suggestion regarding this for this hotel is to monitor Variable Cost Dri
     
 13. **Managed Guests vs. All Guests**: The Last key metric I analyzed is to compare Managed Guests vs. All Guests. Managed guests are guests of the hotel that actually served, including guests who checked in and were managed by the staff, while All Guests refer to everyone who made a booking, regardless of whether they checked in, canceled, or even were a no-show. And by analyzing it, it gives the hotel insight into both demand and operational performance. Here's my result regarding this:
 
-| **Month**   | **Avg Revenue Managed guests** | **Avg RevPAR Managed Guests** | **Avg Occupancy Managed Guests ** |**Avg RevPAR All**     |**Avg Occupancy All**     |
+| **Month**   | **Avg Revenue Managed guests** | **Avg RevPAR Managed Guests** | **Avg Occupancy Managed Guests**  |**Avg RevPAR All**     |**Avg Occupancy All**     |
 |-------------|--------------------------------|-------------------------------|-----------------------------------|-----------------------|--------------------------|
 | 7           | 848.39                         | 4.6                           | 77.58                             | 4.6                   | 0.78                     |
 | 2           | 851.38                         | 4.58                          | 77.97                             | 4.58                  | 0.78                     |
