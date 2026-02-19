@@ -178,8 +178,8 @@ My recommendation for this hotel is to continue focusing on reputation managemen
 | **Month**                     | **Total Room Revenue**      | **Total Revenue**              | **Room Revenue Contribution**     |  
 |-------------------------------|-----------------------------|--------------------------------|-----------------------------------|
 | 2                             | 1384000                     | 1558000                        | 89.0                              |
-| 1                             | 1373000                     | 1554000                        | 88.0                              |
-| 7                             | 1465000                     | 1680000                        | 87.0                              |
+| 7                             | 1373000                     | 1554000                        | 88.0                              |
+| 1                             | 1465000                     | 1680000                        | 87.0                              |
 | 3                             | 902000                      | 1035000                        | 87.0                              |
 
 From the results above, it is evident that Room Revenue plays a pivotal role for this hotel, accounting for 87–89% of the total revenue each month. This indicates that room bookings are the primary source of revenue for the hotel. February has the highest room revenue contribution at 89%, while March has the lowest in this range at 87%, which is still quite high.
