@@ -16,9 +16,9 @@ This project utilizes a public dataset available on Kaggle Datasets, and it's id
      
 2. **Dataset**: The Dataset used for this project was downloaded from Kaggle and available as a public dataset. You can access ([here](https://www.kaggle.com/datasets/omarsobhy14/hotel-revenue2024)) and query it directly in the BigQuery console with a free account, or use any SQL flavor you like (PostgreSQL, SQL, MySQL, or others).
 
-4. **Tools Used**: SQL (For data extraction & aggregation).
+4. **Tools Used**: SQL/BigQuery (For data extraction & aggregation).
 
-## Result, Findings, and Recommendations (Based on 13 Key Metrics)
+## Result and Findings
 
 1. **Occupancy Rate Trends**: For the Occupancy Rate Trends, I have calculated and analyzed the trends by Season, Holiday, and Weekday for this hotel.
 - Occupancy rate based on Season:
