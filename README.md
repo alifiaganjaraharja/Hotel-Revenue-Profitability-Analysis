@@ -14,7 +14,7 @@ This project utilizes a public dataset available on Kaggle Datasets, and it's id
    - Guest Satisfaction - Analyze and found out all Guest Satisfaction Key Metrics such as Average Review score, Complaints, and Compliment
    - Marketing Efficiency - Analyze and found out how Marketing Spend versus Revenue within this hotel
      
-2. **Dataset**: The Dataset used for this project was downloaded from Kaggle and available as a public dataset. You can (access [here](https://www.kaggle.com/datasets/omarsobhy14/hotel-revenue2024)). You can query it directly in the BigQuery console with a free account, or use any SQL flavor you like (PostgreSQL, SQL, MySQL, or others).
+2. **Dataset**: The Dataset used for this project was downloaded from Kaggle and available as a public dataset. You can access ([here](https://www.kaggle.com/datasets/omarsobhy14/hotel-revenue2024)) and query it directly in the BigQuery console with a free account, or use any SQL flavor you like (PostgreSQL, SQL, MySQL, or others).
 
 4. **Tools Used**: SQL (For data extraction & aggregation).
 
