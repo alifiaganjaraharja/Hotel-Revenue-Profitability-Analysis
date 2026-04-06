@@ -4,27 +4,19 @@ By Alifia Ganjaraharja
 This repository contains a data analysis project that utilizes SQL to analyze hotel revenue, profitability, and booking trends to optimize pricing and operational efficiency. This project utilizes a public dataset which is available on Kaggle Datasets.
 
 ## Project Overview: 
-This project utilizes a public dataset available on Kaggle Datasets, and it's ideal for practicing Beginner to Intermediate SQL, including Aggrerate Functions (SUM, AVG, and COUNT), and CASE functions and performance optimization on large datasets.
+This project utilizes a public dataset available on Kaggle Datasets, and it's ideal for practicing Beginner to Intermediate SQL, including Aggrerate Functions (SUM, AVG, and COUNT), CASE functions and performance optimization on large datasets.
 1. **Goal**: Analyze hotel revenue, profitability, and booking trends to optimize pricing and operational efficiency.
 
-    **Sample Questions to Answer**:
+   **Sample Questions to Answer**:
    - Revenue & Profitability - How is the Total Revenue, Room Revenue, Net Profit, and Profit Margin Patterns of this hotel on 2024? 
    - Occupancy & Room Performance - How is the overall performances of these key metrics (Occupancy Rate, ADR, RevPAR, Managed vs All Guests) for this hotel? and what that number means?
    - Booking Trends - How is the trend and what pattern can be found on key metrics around Booking Trends (New Booking, No Shows, Cancellations, and Channel Analysis)? What does that number means?
-   - Guest Satisfaction - Analyze and found out all about Gue
+   - Guest Satisfaction - Analyze and found out all Guest Satisfaction Key Metrics such as Average Review score, Complaints, and Compliment
+   - Marketing Efficiency - Analyze and found out how Marketing Spend versus Revenue within this hotel
      
-2. **Dataset**: The Dataset used for this project was downloaded from Kaggle (access [here](https://www.kaggle.com/datasets/omarsobhy14/hotel-revenue2024)). The Dataset provides comprehensive insights into the operational and revenue performance of a hotel throughout the year 2024. It contains columns like Date, Month, Weekday, Season, Holiday, Marketing_Spend, Revenue, Room_Revenue, Occupancy_Rate, ADR, RevPAR, Available_Rooms, Reserved_Rooms, Booking_Channel, Guest_Type, Matket_Segment, Guest_Country, Complaints, Compliment, Bookings, No_Shows, Cancellations, Checkouts, New_Bookings, Checkins, Average_Review_Score, Revenue_Managed_Guests, RevPAR_Managed_Guests, Occupancy_Managed_Guests, RevPAR_All, Room_Revenue_All, Total_Revenue, Operatng_Expenses, Fixed_Costs, Total_Costs, and Profit.
-4. **Tools Used**: SQL (For data extraction & aggregation), Python (Pandas and Matplotlib) for analysis & Visualization.
+2. **Dataset**: The Dataset used for this project was downloaded from Kaggle and available as a public dataset. You can (access [here](https://www.kaggle.com/datasets/omarsobhy14/hotel-revenue2024)). You can query it directly in the BigQuery console with a free account, or use any SQL flavor you like (PostgreSQL, SQL, MySQL, or others).
 
-## Key Metric Analyzed:
-For this analysis, I used SQL (specifically BigQuery) to practice writing queries by analyzing hotel data. This repository contains 15 SQL scripts, each focusing on the following:
-
-
-
-
-
-| Guest Satisfaction           | Average Review Score, Complaints, Compliments           |
-| Marketing Efficiency         | Marketing Spend vs Revenue, CPA (optional)              |
+4. **Tools Used**: SQL (For data extraction & aggregation).
 
 ## Result, Findings, and Recommendations (Based on 13 Key Metrics)
 
