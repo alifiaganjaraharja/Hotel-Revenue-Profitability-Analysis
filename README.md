@@ -22,12 +22,11 @@ This project utilizes a public dataset available on Kaggle Datasets, and it's id
 
 Question 1: Revenue & Profitability - How is the total Revenue, Room Revenue, Net Profit, and Profit Margin Patterns of this hotel on 2024?
 
-Total Revenue
-|**Date**   | **Total Revenue** |
-|-----------|-------------------|
-|2024-01-01	|$1,680,000         |
-|2024-02-01	|$1,558,000         |
-|2024-03-01	|$1,035,000         |
-|2024-07-01	|$1,554,000         |
+|**Date**   | **Total Revenue** |**Total Room Revenue**  |**Net Profit**  |**Profit Margin**  |
+|-----------|-------------------|------------------------|----------------|-------------------|
+|2024-01-01	|$1,680,000         |$1,465,000              |$1,255,000      |74.7               |
+|2024-02-01	|$1,558,000         |$1,384,000              |$1,135,500      |72.88              |
+|2024-03-01	|$1,035,000         |$  902,000              |$  773,500      |74.73              |
+|2024-07-01	|$1,554,000         |$1,373,000              |$  977,500      |62.9               |
+ 
 
-Room 
