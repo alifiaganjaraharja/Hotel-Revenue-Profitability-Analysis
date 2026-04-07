@@ -1,4 +1,4 @@
-# [Kaggle] - Hotel Revenue & Profitability Analysis Project
+# Hotel Revenue & Profitability Analysis Project
 By Alifia Ganjaraharja
 
 This repository contains a data analysis project that utilizes SQL to analyze hotel revenue, profitability, and booking trends to optimize pricing and operational efficiency. This project utilizes a public dataset which is available on Kaggle Datasets.
