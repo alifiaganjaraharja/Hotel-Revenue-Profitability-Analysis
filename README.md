@@ -30,3 +30,8 @@ Question 1: Revenue & Profitability - How is the total Revenue, Room Revenue, Ne
 |2024-07-01	|$1,554,000         |$1,373,000              |$  977,500      |62.9               |
  
 
+Question 2: Occupancy & Room Performance - How is the overall performances of these key metrics (Occupancy Rate, ADR, RevPAR, Managed vs All Guests) for this hotel? and what that number means?
+
+|**Average Occupancy Rate**   | **Average ADR**   |**Average RevPAR**      |**Average Occupancy Managed**  |**Average Occupancy All**  |
+|-----------------------------|-------------------|------------------------|-------------------------------|---------------------------|
+|  0.77	                      |  124.74           |  95.29                 |  77.49                        |  77.49                    |
