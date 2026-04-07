@@ -35,3 +35,21 @@ Question 2: Occupancy & Room Performance - How is the overall performances of th
 |**Average Occupancy Rate**   | **Average ADR**   |**Average RevPAR**      |**Average Occupancy Managed**  |**Average Occupancy All**  |
 |-----------------------------|-------------------|------------------------|-------------------------------|---------------------------|
 |  0.77	                      |  124.74           |  95.29                 |  77.49                        |  77.49                    |
+
+Question 3: Booking Trends - How is the trend and what pattern can be found on key metrics around Booking Trends (New Booking, No Shows, Cancellations, and Channel Analysis)? What does that number means?
+
+|**Date**   | **Total New Bookings** |**Total No Shows**  |**Total Cancellation**  |
+|-----------|------------------------|--------------------|------------------------|
+|2024-01-01	|  92                    |  41                |  20                    |
+|2024-02-01	|  65                    |  36                |  15                    |
+|2024-03-01	|  56                    |  25                |  12                    |
+|2024-07-01	|  89                    |  34                |  17                    |
+
+I separated the Channel Analysis
+
+|**Booking Channel**   | **Total New Booking**  |**Total No Shows**  |**Total Cancellation**  |
+|----------------------|------------------------|--------------------|------------------------|
+|Direct   	           | 179                    |  65                |  32                    |
+|OTA                   | 123                    |  71                |  32                    |
+
+
