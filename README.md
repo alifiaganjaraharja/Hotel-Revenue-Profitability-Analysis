@@ -52,4 +52,12 @@ I separated the Channel Analysis
 |Direct   	           | 179                    |  65                |  32                    |
 |OTA                   | 123                    |  71                |  32                    |
 
+Question 4: Guest Satisfaction - Analyze and found out all Guest Satisfaction Key Metrics such as Average Review score, Complaints, and Compliment
+
+|**Average Review Score**   | **Total Complaints**  |**Total Compliments**  |
+|---------------------------|-----------------------|-----------------------|
+| 4.57     	                | 127                   | 127                   |
+
+Question 5: Marketing Efficiency - Analyze and found out how Marketing Spend versus Revenue within this hotel
+
 
