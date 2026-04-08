@@ -1,12 +1,7 @@
-#Find out the Guest Satisfaction for each month at this hotel
-SELECT 
-  DATE_TRUNC(Date, MONTH) AS Month,
-  ROUND(AVG(Average_Review_Score),2) AS Avg_Review_Score,
+-- This query is to answer the fourth question on Guest Satisfaction and find out the Average Review Score, Complaints, and Compliments of this hotel
+SELECT
+  ROUND(AVG(Average_Review_Score),2) AS Average_Review_Score,
   SUM(Complaints) AS Total_Complaints,
-  SUM(Compliment) AS Total_Compliments
-FROM 
-hoteldata-455008.KaggleHotel.Hotel_01
-GROUP BY 
-  Month
-ORDER BY 
-  Month;
+  SUM(Complaints) AS Total_Compliments
+FROM
+`hoteldata-455008.Hotel.overall`;
