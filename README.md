@@ -60,4 +60,9 @@ Question 4: Guest Satisfaction - Analyze and found out all Guest Satisfaction Ke
 
 Question 5: Marketing Efficiency - Analyze and found out how Marketing Spend versus Revenue within this hotel
 
-
+|**Month**  | **Total Marketing Spend** |**Total Revenue**  |**Revenue Per Marketing Dollar**  |
+|-----------|---------------------------|-------------------|----------------------------------|
+|2024-01-01	|  1,850,000                |  1,680,000        |  0.91                            |
+|2024-02-01	|  1,735,000                |  1,558,000        |  0.9                             |
+|2024-03-01	|  1,150,000                |  1,035,000        |  0.9                             |
+|2024-07-01	|  1,800,000                |  1,554,000        |  0.86                            |
