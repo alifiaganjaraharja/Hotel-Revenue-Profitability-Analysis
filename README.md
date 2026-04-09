@@ -16,7 +16,7 @@ This project utilizes a public dataset available on Kaggle Datasets, and it's id
      
 2. **Dataset**: The Dataset used for this project was downloaded from Kaggle and available as a public dataset. You can access ([here](https://www.kaggle.com/datasets/omarsobhy14/hotel-revenue2024)) and query it directly in the BigQuery console with a free account, or use any SQL flavor you like (PostgreSQL, SQL, MySQL, or others).
 
-4. **Tools Used**: SQL/BigQuery (For data extraction & aggregation).
+4. **Tools Used**: SQL/BigQuery (For data extraction & aggregation), and Loooker (For data visualization).
 
 ## Result and Findings
 
