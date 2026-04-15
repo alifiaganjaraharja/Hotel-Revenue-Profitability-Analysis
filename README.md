@@ -4,7 +4,7 @@ By Alifia Ganjaraharja
 This repository contains a data analysis project that utilizes SQL to analyze hotel revenue, profitability, and booking trends to optimize pricing and operational efficiency. This project utilizes a public dataset which is available on Kaggle Datasets.
 
 ## Project Overview: 
-This project utilizes a public dataset available on Kaggle Datasets, and it's ideal for practicing Beginner to Intermediate SQL, including Aggrerate Functions (SUM, AVG, and COUNT), CASE functions and performance optimization on large datasets.
+This project utilizes a public dataset available on Kaggle Datasets, and it's ideal for practicing Beginner to Intermediate SQL, including Aggrerate Functions (SUM, AVG, and COUNT), and performance optimization on large datasets.
 1. **Goal**: Analyze hotel revenue, profitability, and booking trends to optimize pricing and operational efficiency.
 
    **Sample Questions to Answer**:
