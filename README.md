@@ -26,7 +26,7 @@ The data used for this project is available on [Kaggle](https://www.kaggle.com/d
 3. Methodology
 - SQL query that extracts and transforms the data, including aggregate functions (SUM, AVG, and COUNT)
 
-5. Tools Used
+4. Tools Used
 - SQL / BigQuery: For data extraction and aggregation.
 
 - Looker: For data visualization.
@@ -68,7 +68,7 @@ I separated the Channel Analysis
 
 |**Booking Channel**   | **Total New Booking**  |**Total No Shows**  |**Total Cancellation**  |
 |----------------------|------------------------|--------------------|------------------------|
-|Direct   	           | 179                    |  65                |  32                    | 
+|Direct   	            | 179                    |  65                |  32                    | 
 |OTA                   | 123                    |  71                |  32                    | 
 
 See the full visualization of the bar chart of Channel Analysis [Here](https://github.com/alifiaganjaraharja/Hotel-Revenue-Profitability-Analysis/blob/main/%5BGitHub%5D%20-%20ChannelAnalysis.pdf)
@@ -93,4 +93,4 @@ Question 5: Marketing Efficiency - Analyze and find out how Marketing Spend vers
 |2024-03-01	|  1,150,000                |  1,035,000        |  0.9                             |
 |2024-07-01	|  1,800,000                |  1,554,000        |  0.86                            |
 
-- 
+- In all four months provided, the Revenue Per Marketing Dollar is below 1.0. For every $1.00 spent on marketing, the business is generating less than $1.00 in revenue (ranging from $0.86 to $0.91). This indicates that the marketing campaigns, as currently measured, are not "breaking even" on a direct revenue-to-spend basis. While the efficiency was relatively stable in the first quarter, there was a noticeable drop by July. 
